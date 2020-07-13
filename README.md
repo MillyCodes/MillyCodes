@@ -1,10 +1,12 @@
 ### Hi there 👋
+---
 
-I'm Milly, a software engineer with experience in Ruby, Rails, JavaScript, React, MySQL and more. I've been working professionally for about 2 years but got my start back in days of MySpace and LiveJournal. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.
+<!-- I'm Milly, a software engineer with experience in Ruby, Rails, JavaScript, React, MySQL and more. I've been working professionally for about 2 years but got my start back in days of MySpace and LiveJournal. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 
 #### I'm a Full-Stack Developer based in Brooklyn, New York.
+> passionate about accessibility and committed to a web that works for everyone
 
-- 🏢 I'm currently working fill-time with awesome peeps at **Teladoc Health**
+- 🏢 I'm currently working full-time with awesome peeps at **Teladoc Health**
 - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
