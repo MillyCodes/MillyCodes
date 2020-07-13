@@ -4,14 +4,14 @@ I'm Milly, a software engineer with experience in Ruby, Rails, JavaScript, React
 
 #### I'm a Full-Stack Developer based in Brooklyn, New York.
 
-- 🏢 I'm currently working at **Teladoc Health**
+- 🏢 I'm currently working fill-time with awesome peeps at **Teladoc Health**
 - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
-- 🌍 I'm support & volunteer: **Code Nation, Built By Girls, AllStar Code**
+- 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
-- 🌱 Learning more about **Open Source, React, CS Algorithms**
-- 💬 Ping me about **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **volunteering**, **Beyonce**
+- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
 - 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
-- ⚡️ Fun facts: I'm a huge Beyonce fan, interested in cryptocurrency, traveling for food, web accessibility, my long-haired chichuahua: Kiki.
+- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, web accessibility, 🐶: Kiki.
 
 
 #### Find me around the web 🌎:
