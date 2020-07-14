@@ -12,7 +12,7 @@
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
 - 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
 - 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
-- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, web accessibility, 🐶 Kiki
+- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
