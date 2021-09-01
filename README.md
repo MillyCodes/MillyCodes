@@ -5,7 +5,8 @@
 
 #### I'm a Full-Stack Developer based in Brooklyn, New York.
 
-- 🏢 I'm currently working full-time with awesome peeps at **Teladoc Health**
+- 😎 Currently taking a break from work. Might think about contract or FTE if the project sounds cool.
+- 🏢 Previously worked with the awesome peeps at **Teladoc Health**
 - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
