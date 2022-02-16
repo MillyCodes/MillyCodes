@@ -1,19 +1,20 @@
 ### Hi, I'm Milly 👋
 ---
 
-<!-- I'm Milly, a software engineer with experience in Ruby, Rails, JavaScript, React, MySQL and more. I've been working professionally for about 2 years but got my start back in days of MySpace and LiveJournal. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
+<!-- I'm Milly, a software engineer with experience in Ruby, Rails, JavaScript, React, MySQL and more. I've been working professionally in engineering and web development since 2018 but got my start back in days of MySpace and LiveJournal. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
 
 #### I'm a Full-Stack Developer based in Brooklyn, New York.
 
-- 😎 Currently taking a break from work. Might think about contract or FTE if the project sounds cool.
+- ❤️ Currently collaborating with **CVS** on digital accessibility.
+- 😎 Open to contracting opportunities if the project sounds cool.
 - 🏢 Previously worked with the awesome peeps at **Teladoc Health**
-- ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
+- ⚙️ Love workin with: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
-- 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
+- 🌱 Learning more about and studying: **Open Source, React, Digital Accessibility**
+- 💬 Ping me about: **a11y**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
 - 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
-- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
+- 💜 Interests: Beyonce, cryptocurrency enthusiast, foodie, 🐶 Kiki, wanderlusting.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
