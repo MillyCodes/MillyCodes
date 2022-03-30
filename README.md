@@ -5,9 +5,9 @@
 
 #### I'm an Accessibility Analyst and Engineer based in Brooklyn, New York.
 
-- ❤️ Currently collaborating with **CVS** on digital accessibility.
+- ❤️ Making a difference and improving Digital Accessibility @ **Wunderkind**
 - 😎 Open to contracting opportunities if the project sounds cool.
-- 🏢 Previously worked with the awesome peeps at **Teladoc Health**
+- 🏢 Previously a Digital Accessibilty Engineer at **CVS Health** & Software Engineer at **Teladoc Health**
 - ⚙️ Love workin with: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.json`, `.yml`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
