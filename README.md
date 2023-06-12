@@ -13,7 +13,7 @@
 - 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
 - 🌱 Learning more about and studying: **Open Source, React, Digital Accessibility**
 - 💬 Ping me about: **a11y**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
-- 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
+- 📫 Reach me asap: <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a> or MillyCodes@gmail.com
 - 💜 Interests: Beyonce, cryptocurrency enthusiast, foodie, 🐶 Kiki, wanderlusting.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
