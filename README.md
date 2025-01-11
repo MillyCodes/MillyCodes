@@ -16,7 +16,7 @@
 - 📫 Reach me asap: <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a> or MillyCodes@gmail.com
 - 💜 Interests: Beyonce, cryptocurrency, foodie, basketball, 🐶 Kiki, wanderlusting.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
-
+<!--
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/millyfeet">Spotify</a>
@@ -24,7 +24,6 @@
 - 🐦 Tweeting about Sports, Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/millycodes/">Twitter</a>
 
 
-<!--
 **MillyCodes/MillyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
